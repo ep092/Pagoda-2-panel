@@ -1,2 +1,10 @@
 # Pagoda-2-panel
-Panel with parts for 6 Pagoda 2 antennas
+This projekt contains the gerber files for a panel with parts for 6 Pagoda 2 antennas.
+3 x RHCP
+3 x LHCP
+
+
+The original files came from Maarten Baert's http://www.maartenbaert.be/quadcopters/antennas/pagoda-antenna/
+I did the paneling and changes to the silkscreen.
+
+Licencse CC BY-SA 4.0
