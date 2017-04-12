@@ -8,6 +8,6 @@ The original files came from Maarten Baert's http://www.maartenbaert.be/quadcopt
 I did the paneling and changes to the silkscreen.
 
 This is a picture of how the panel looks like: 
-![panel](Pagoda-2-panel/panel.png)
+![panel](panel.png)
 
 Licencse CC BY-SA 4.0
