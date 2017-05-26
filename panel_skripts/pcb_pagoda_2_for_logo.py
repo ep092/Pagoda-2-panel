@@ -169,7 +169,7 @@ for version in ["2", "2B"]:
 				0.0, 7.5, align="center", valign="center", spacing=0.05)
 		shapes += mbpcb.make_text("silk-top", "fonts/Salsa.ttf", "Pagoda-" + version, 1.2,
 				0.0, 6.0, align="center", valign="center", spacing=0.05)
-		shapes += mbpcb.make_text("silk-top", "fonts/Salsa.ttf", ".", 3,
+		shapes += mbpcb.make_text("silk-top", "fonts/Salsa.ttf", "", 3,
 				0.0, -2.5, align="center", valign="center", spacing=0.05)
 		shapes += mbpcb.make_text("silk-top", "fonts/Salsa.ttf", "Designed by", 1.2,
 				0.0, -6.0, align="center", valign="center", spacing=0.05)

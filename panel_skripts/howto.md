@@ -11,6 +11,7 @@ run panel_2b.sh
 
 A file with seperated pcbs on it will be generated. 
 Replace .gko with connected pcbs and closed contour. panel_connected.gko
+
 --------------
 How to make contour.
 Export in gerbv as pdf or dxf (don't know anymore how i did it exactly.)
@@ -24,3 +25,7 @@ How to make logo
 Import as e.g. bitmap in altium. Open bitmap or other file in e.g. paint, then copy and paste in altium, 
 reszize to correct size and export as gerber.
 move manually in gerbv to get correct position and merge then with the rest of the silkscreen (text) similar to panel_single.sh
+
+--------------
+Problems:
+checkt that directorys are created bevor running skripts
