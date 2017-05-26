@@ -8,6 +8,6 @@ The original files came from Maarten Baert http://www.maartenbaert.be/quadcopter
 I did the paneling and changes to the silkscreen.
 
 This is a picture of how the panel looks like: 
-![panel](panel.png)
+![panel](panel_2b/panel2b.png )
 
 Licencse CC BY-SA 4.0
