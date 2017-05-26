@@ -7,7 +7,7 @@ G04 --End of header info--*
 %FSLAX34Y34*%
 %IPPOS*%
 G04 --Define apertures--*
-%ADD10C,0.0005*%
+%ADD10C,0.0039*%
 G04 --Start main section--*
 G54D10*
 G01X0005450Y0009470D02*
